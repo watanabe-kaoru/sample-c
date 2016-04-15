@@ -122,7 +122,7 @@ H2見出し（ハイフン行を挿入）
 > {}　curly braces  
 > []　square brackets  
 > ()　parentheses  
-> `#`　hash mark  
+> "#"　hash mark  
 > +　plus sign  
 > -　minus sign (hyphen)  
 > .　dot  
